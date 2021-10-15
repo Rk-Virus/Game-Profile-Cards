@@ -1,4 +1,4 @@
-# ninja_id_app
+# game_id_app
 
 A new Flutter project.
 
